@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+exclude: ["media/exercises.svg", "README.md", "docker-compose.yml"]
+collections:
+  all:
+    output: true

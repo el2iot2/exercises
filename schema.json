@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "http://exercises.el2iot2.com/schema.json",
+
+  "definitions": {
+    "exercise": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string"},
+        "caption": { "type": "string" },
+        "description": { "type": "string" }
+      },
+      "required": ["id"]
+    }
+  },
+
+  "type": "array",
+  "items": { "$ref": "#definitions/exercise" }
+}

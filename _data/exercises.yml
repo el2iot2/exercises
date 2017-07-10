@@ -1,0 +1,87 @@
+air-squat: squat.air
+back-extension:
+back-squat: squat.back
+squat_back:
+bar-muscle-up: muscle-up.bar
+muscle-up_bar:
+bent-over-row: row.bent-over
+dumbbell-bent-over-row: row.bent-over.dumbbell
+pendlay-row: row.pendlay
+bench-press:
+box-jump:
+broad-jump:
+burpee:
+chest-to-bar-pull-up: pull-up.chest-to-bar
+clean-and-jerk:
+deadlift:
+deficit-push-up: push-up.deficit
+farmer-carry:
+front-squat: squat.front
+ghd-sit-up: sit-up.ghd
+ghd-wall-ball: wall-ball.ghd
+goblet-squat: squat.goblet
+good-morning:
+ground-to-overhead:
+handstand-push-up: push-up.handstand
+handstand:
+hang-power-clean: clean.power.hang
+hang-power-snatch: snatch.power.hang
+hang-squat-clean:
+hip-extension:
+hip-back-extension:
+jumping-jack:
+jumping-pull-up:
+kettlebell-swing:
+knees-to-elbows:
+l-pull-up:
+l-sit:
+knee-push-up:
+lunge:
+medicine-ball-clean:
+muscle-up:
+one-arm-dumbbell-snatch:
+one-arm-kettlebell-swing:
+overhead-squat:
+overhead-walk:
+overhead-walking-lunges:
+pendlay-row:
+pistol: 
+plank:
+power-clean:
+power-snatch:
+pull-up: 
+push-press:
+push-jerk:
+push-press:
+push-up:
+ring-dip:
+ring-l-sit:
+ring-pull-up:
+ring-row:
+ring-tuck-hold:
+rope-climb:
+row:
+run:
+shoulder-press:
+shoulder-to-overhead:
+sit-up-wall-ball:
+sit-up:
+snatch:
+snatch-balance:
+sots-press:
+squat:
+static-dip:
+static-hang:
+strict-pull-up:
+strict-ring-pull-up:
+sumo-deadlift-high-pull:
+superman:
+swim:
+thruster:
+toes-to-bar:
+toes-to-rings:
+tuck-jump:
+turkish-get-up:
+walking-lunge:
+wall-climb:
+zercher-squat:
